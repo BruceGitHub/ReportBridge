@@ -18,10 +18,10 @@ ReportBridge e un repository di strutture pronte all'uso per organizzare la cono
 
 | Contesto | Scaffold consigliato | Livello iniziale |
 |---|---|---|
-| SaaS di prodotto | saas-product | standard |
-| Software house / agenzia | software-house | lite |
-| Team enterprise interno | enterprise-internal | standard |
-| Startup early-stage | startup-early-stage | lite |
+| SaaS di prodotto | [saas-product](scaffolds/saas-product/) | standard |
+| Software house / agenzia | [software-house](scaffolds/software-house/) | lite |
+| Team enterprise interno | [enterprise-internal](scaffolds/enterprise-internal/) | standard |
+| Startup early-stage | [startup-early-stage](scaffolds/startup-early-stage/) | lite |
 
 ## Cosa Trovi Nel Repo
 
